@@ -1,2 +1,2 @@
 # JAVA--POO-projects
-Qlq projets sur la programmation orientée objet avec Java
+Java projects focused on Object-Oriented Programming (OOP)
